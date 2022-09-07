@@ -1,0 +1,12 @@
+
+number of alternatives: 5
+number of criterias: 4
+elements of decision matrix in a single line separated by space:
+250 128 24 5 200 128 16 3 300 256 32 4 275 256 16 4 225 128 32 2
+1 if maximum of criteria is preffered and -1 if minimum is preferred:
+-1 1 1 1
+How will we enter weights? mannually(M), AHP(A) or Entropy(E)
+We choosed Manually(M)
+weights of  criterias in a single line separated by space:
+0.6 0.24 0.12 0.04
+
