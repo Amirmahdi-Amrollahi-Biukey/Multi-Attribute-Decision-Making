@@ -1,0 +1,17 @@
+Decision Making Matrix:
+[5,  2, 7,   10,   5,  9]
+[6,  4, 6,   12,   5,  7]
+[8,  3, 8.5, 10.5, 7,  5]
+[10, 2, 7.5,  11,   9, 3]
+
+Alternatives:
+['A1', 'A2', 'A3', 'A4']
+
+criterias:
+['C1', 'C2', 'C3', 'C4', 'C5', 'C6']
+
+criteria's beneficial values, True for benefit or False for cost:
+[True, True, True, False, True, True]
+
+criteria's weights:
+[0.20, 0.30, 0.10, 0.20, 0.1, 0.1]
